@@ -37,8 +37,6 @@ The project focuses on building a clean user experience while working with real-
 * REST APIs
 * Git & GitHub
  
- 
-> The exact folder structure may vary depending on the current implementation of the project.
 
 ## ⚙️ Installation & Setup
 
